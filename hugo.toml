@@ -2,10 +2,27 @@ baseURL = 'https://ancientink.de/'
 languageCode = 'de-DE'
 title = 'Ancientink'
 theme = 'hugo-theme-terminal'
+paginate = 5
 
 [params]
   themeColor = "green"
-  showMenuItems = 2
   showLanguageSelector = true
-  fullWidthTheme = true
+  fullWidthTheme = false
   centerTheme = true
+  logoText = "Ancientink"
+  logoHomeLink = "/"
+
+[languages]
+  [languages.en]
+    title = "Ancientink"
+    copyright = ""
+
+    [languages.en.params.logo]
+      logoText = "Ancientink"
+      logoHomeLink = "/"
+
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "about"
+        name = "About"
+        url = "/about"
