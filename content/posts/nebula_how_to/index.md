@@ -1,7 +1,7 @@
 +++
 title = "How to: Create an overlay network with Nebula"
 date = "2023-10-02T21:53:30+02:00"
-description = "A quick guide to create an overlay network with nebula"
+description = " "
 +++
 
 # Installation
