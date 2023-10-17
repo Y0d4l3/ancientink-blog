@@ -1,4 +1,4 @@
-baseURL = 'https://ancientink.de/'
+baseURL = 'http://ancientink.de/'
 languageCode = 'de-DE'
 title = 'Ancientink'
 theme = 'hugo-theme-terminal'
