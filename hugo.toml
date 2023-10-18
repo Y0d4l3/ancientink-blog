@@ -5,7 +5,7 @@ theme = 'hugo-theme-terminal'
 paginate = 5
 
 [params]
-  themeColor = "green"
+  themeColor = "orange"
   showLanguageSelector = true
   fullWidthTheme = false
   centerTheme = true
